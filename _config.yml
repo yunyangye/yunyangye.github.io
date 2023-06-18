@@ -1,11 +1,13 @@
 title: Yunyang Ye # your name (or website title) here
 logo: "/images/Ye_Y-2WEB - Copy.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Dr. Yunyang Ye is a research scientist at Pacific Northwest National Laboratory (PNNL). He received the bachelor and master’s degrees from Tongji University, Shanghai, China, and Ph.D. degree from University of Colorado Boulder. His research interest is sustainable buildings at different scales in support of future building energy policy. 
   <br><br>
-  Second description 
+  He has been the principal investigator and project manager for one project, and the task manager in 10 projects. The cumulative funding is over $700,000. He is one of the core members at PNNL in support of U.S. Department of Energy (DOE)’s Building Energy Codes Program. He has published 27 peer-reviewed journal papers and 13 peer-reviewed conference papers. Dr. Yunyang Ye, as one of the key contributors, recently published “Building Performance Standards: A Technical Resource Guide”, which will provide critical guidance for states and cities’ building decarbonization in the future. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/yunyang-ye-90b137125/">View My LinkedIn</a> 
+  <br><br>
+  <a href="https://scholar.google.com/citations?user=B9WSzWcAAAAJ&hl=en&oi=ao">View My Google Scholar</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
